@@ -2,6 +2,7 @@ gunicorn
 Flask
 pandas
 openpyxl
+gunicorn
 
 
 
